@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7085e5da915cbd74091193d426017b96, type: 3}
+  m_Name: UI Main Menu Texts
+  m_EditorClassIdentifier: 
+  _newGameText: PLAY
+  _continueText: CONTINUE
+  _optionsText: OPTIONS
+  _newGameBtnText: NEW GAME
+  _loadGameText: LOAD GAME
+  _quitText: QUIT
+  _optionsTitleText: OPTIONS
+  _musicLabelText: MUSIC
+  _sfxLabelText: SFX
+  _backText: BACK
+  _loadGameTitleText: LOAD GAME
+  _confirmationMessage: ARE YOU SURE? YOUR CURRENT PROGRESS WILL BE DELETED.
+  _confirmText: CONFIRM
+  _cancelText: CANCEL
